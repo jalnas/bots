@@ -1,0 +1,3 @@
+interface SingleRoundGame {
+  play(): Outcome
+}
